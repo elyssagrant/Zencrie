@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zencrie
+- 👋 Hi, I’m Elyssa
 - 🌱 I am currently in a software engineering undergraduate, with hopes of bettering my understanding of cybersecurity!
 - 💞️ I am (ISC)^2 Certified in Cybersecurity and looking to gain experience in the field!
 
